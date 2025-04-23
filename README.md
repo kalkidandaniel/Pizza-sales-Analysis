@@ -9,6 +9,10 @@ As the business scaled, Bella Napoli began collecting large volumes of order dat
 * Sales Trends: Daily and hourly ordering behavior.
 * Customer Preferences: Category and size breakdowns.
 * Product Popularity: Best and worst-selling pizzas.
+  
+### The Dashboard
+
+![pp1](https://github.com/user-attachments/assets/e45802be-8504-4c32-9123-b3b69798a209)
 
 
 ## Data Structure & Initial Checks
